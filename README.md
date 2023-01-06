@@ -4,7 +4,7 @@
 </head>
 
 <body>
-
+		<center>
 		<form action="https://thirumurugan1.github.io/paysuccess/" method="get">
 			<div class="container">
 				<label for="uname"><b>Bill Number</b></label>
@@ -19,10 +19,4 @@
 				<button type="submit">Pay</button><br>
 				<label>
 				
-			</div>
-
-			
-			
-		</form>
-</body>
-</html>
+		
